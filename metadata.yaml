@@ -1,0 +1,29 @@
+_repo: A-Tale-of-One-City--the-New-BirminghamPapers-Reprinted-from-the--Midland-Counties-Herald-_11356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderton, Thomas
+    alias: Anderton, T. (Thomas)
+    birthdate: 1836
+    deathdate: 1903
+    gutenberg_agent_id: '3952'
+    url: http://www.gutenberg.org/2009/agents/3952
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birmingham (England) -- Social life and customs'
+- !lcc 'DA'
+- !lcsh 'Birmingham (England)'
+- GITenberg
+title: 'A Tale of One City: the New Birmingham
+
+  Papers Reprinted from the "Midland Counties Herald"'
+url: http://www.gutenberg.org/ebooks/11356
